@@ -1,6 +1,6 @@
 import pandas as pd #para leer archivos CSV
 import numpy as np #para arrays y operaciones matemáticas
-#import seaborn as sns #para ver datos y regresiones
+import seaborn as sns #para ver datos y regresiones
 import matplotlib.pyplot as plt #para sacar funciones por pantalla
 from sklearn.metrics import accuracy_score #para la regresión logística
 
