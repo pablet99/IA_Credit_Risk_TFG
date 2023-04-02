@@ -3,7 +3,7 @@ import numpy as np #para arrays y operaciones matemáticas
 import seaborn as sns #para ver datos y regresiones
 import matplotlib.pyplot as plt #para sacar funciones por pantalla
 from sklearn.metrics import accuracy_score #para la regresión logística
-import seaborn as sns
+seaborn 
 
 from sklearn.linear_model import LogisticRegression #para hacer la regresión logística
 from sklearn.preprocessing import StandardScaler #para estandarizar datos
